@@ -19,14 +19,14 @@ n26-home-challenge/
 
 ## Task 2: Mobile Test Automation – Monefy App- v1.18.0 -APK 
 
-Tech Stack: WebdriverIO, Appium, Mocha, @rpii/wdio-html-reporter, Android Studio Emulator (Pixi 3),Appium Inspector
+Tech Stack: WebdriverIO, Appium, Mocha, @rpii/wdio-html-reporter, Android Studio Emulator (Pixi 3), Appium Inspector
 Tested core E2E flows:
 - Add Expense
 - Add Income
 - View Balance and Transactions
 
 Includes:
--Config files
+- Config files
 - Page objects
 
 HTML test report
