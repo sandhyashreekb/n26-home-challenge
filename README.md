@@ -49,9 +49,9 @@ Validations for response codes, payload structure, and error cases
 ## How to Run
 
 See individual folder README.md files for instructions on:
-Setting up dependencies
-Running tests
-Viewing reports
+- Setting up dependencies
+- Running tests
+- Viewing reports
 
 
 🙌 Thank You
