@@ -4,10 +4,10 @@ This repository contains my solution for the N26 Senior QA Engineer home challen
 
 ##  Folder Structure
 n26-home-challenge/
-│
+n26-home-challenge/
 ├── 1-exploratory-testing/ # Manual exploratory testing report for Monefy app
 ├── 2-mobile-automation/ # Mobile test automation using WebdriverIO + Appium
-├── 3-api-test-automation/ # REST API automation tests for Petstore API
+└── 3-api-test-automation/ # REST API automation tests for Petstore API
 
 ## Task 1: Exploratory Testing – Monefy App
 
